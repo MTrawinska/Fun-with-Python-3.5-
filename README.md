@@ -1,9 +1,7 @@
-# Fun-with-Python-3.5-
+# Show weather (API)
 
-This is a simple Python file intended to show basic weather conditions in selected city across globe and based on parameters propose corny, random joke. 
+Simple Python file intended to show basic weather conditions in selected city across globe. Based on weather indicators it propose random joke. 
 
-Installed and required modules: Python 3.5+, requests
+Installed and required modules: Python 3.5+, request, json, 
 
-Just simple and crisp project. 
-
-Please do not copy or share without contacting. 
+Just simple and crisp project.Please do not copy or share without contacting. 
